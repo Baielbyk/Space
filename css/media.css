@@ -1,0 +1,818 @@
+@media (max-width: 1025px) {
+  #spaceInvestment .imag {
+    width: 660px;
+    margin-top: 62px;
+    margin-left: -52px;
+  }
+  #spaceInvestment .time {
+    font-size: 40px;
+    width: 332px;
+    margin-left: 627px;
+  }
+  #spaceInvestment .nullam {
+    font-size: 21px;
+    width: 322px;
+    margin-left: 627px;
+    margin-top: -320px;
+  }
+  #spaceInvestment .iph {
+    margin-left: 622px;
+  }
+  #spaceInvestment .milon {
+    margin-left: 697px;
+  }
+  #spaceInvestment .help {
+    height: 503px;
+    width: 544px;
+    margin-left: 428px;
+    margin-top: -509px;
+  }
+  #reviews .reviews--text {
+    margin: 0 82px;
+  }
+  #footer .footer--traunship__input {
+    margin-left: 491px;
+  }
+  #header {
+    min-width: 95vh;
+    min-height: 998px;
+  }
+  #features .lop {
+    margin-left: 20px;
+  }
+}
+@media (max-width: 992px) {
+  #spaceInvestment .imag {
+    width: 600px;
+  }
+  #spaceInvestment .help {
+    height: 455px;
+    width: 562px;
+    margin-left: 379px;
+    margin-top: -461px;
+  }
+  #spaceInvestment .time {
+    font-size: 36px;
+    width: 316px;
+    margin-left: 580px;
+  }
+  #spaceInvestment .nullam {
+    margin-left: 587px;
+  }
+  #spaceInvestment .iph {
+    margin-left: 589px;
+  }
+  #spaceInvestment .milon {
+    margin-left: 660px;
+  }
+  #factsSpace .factsSpace--img__text--tittle h5 {
+    font-size: 12px;
+    line-height: 16px;
+    width: 200px;
+  }
+  #factsSpace .factsSpace--img__text--tittle h1 {
+    font-size: 17px;
+  }
+  #rocketScience .rocketScience--tittle h1 {
+    font-size: 22px;
+    margin: 11px 0;
+  }
+  #rocketScience .rocketScience--tittle h5 {
+    padding: 26px 0;
+    font-size: 12px;
+  }
+  #footer .footer--traunship__input {
+    width: 434px;
+  }
+}
+@media (max-width: 768px) {
+  #spaceInvestment .imag {
+    width: 450px;
+    padding: 0 0 40px 0;
+  }
+  #spaceInvestment .help {
+    height: 341px;
+    width: 562px;
+    margin-left: 167px;
+    margin-top: -387px;
+  }
+  #spaceInvestment .time {
+    font-size: 25px;
+    line-height: 32px;
+    width: 221px;
+    margin-left: 401px;
+    margin-top: -315px;
+  }
+  #spaceInvestment .nullam {
+    font-size: 17px;
+    width: 254px;
+    margin-left: 403px;
+    margin-top: -252px;
+  }
+  #header .start h1 {
+    font-size: 62px;
+  }
+  #spaceInvestment .iph {
+    margin-top: -150px;
+    margin-left: 401px;
+  }
+  #spaceInvestment .milon {
+    margin-left: 481px;
+    margin-top: -140px;
+  }
+  #features .fac {
+    font-weight: 500;
+    font-size: 52px;
+    margin-top: 36px;
+  }
+  #features .lop {
+    font-size: 17px;
+    margin-left: 10px;
+    width: 681px;
+  }
+  #factsSpace .factsSpace--img__text--tittle h1 {
+    font-size: 15px;
+  }
+  #factsSpace .factsSpace--img__text--tittle h5 {
+    font-size: 12px;
+    width: 150px;
+  }
+  #factsSpace .factsSpace--img__text--tittle {
+    margin: 0 0 0 15px;
+  }
+  #factsSpace .factsSpace--img__text img {
+    display: block;
+    width: 150px;
+  }
+  #rocketScience .rocketScience--block h1 {
+    padding: 20px 0;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  #rocketScience .rocketScience--block {
+    width: 300px;
+  }
+  #rocketScience .rocketScience--block img {
+    width: 260px;
+  }
+  #rocketScience .rocketScience--block2 img {
+    width: 260px;
+  }
+  #rocketScience .rocketScience--block2 h1 {
+    font-size: 18px;
+  }
+  #rocketScience .rocketScience--tittle h1 {
+    font-size: 14px;
+  }
+  #rocketScience .rocketScience--tittle h5 {
+    padding: 19px 0;
+    font-size: 9px;
+  }
+  #reviews .reviews--text {
+    margin: 0 35px;
+  }
+  #footer .footer--traunship logo {
+    font-size: 27px;
+  }
+  #footer .footer--traunship h4 {
+    padding: 30px 0;
+    width: 153px;
+  }
+  #footer .footer--traunship__text {
+    margin: 0 54px;
+    margin-top: -200px;
+  }
+  #footer .footer--traunship__Quick h2 {
+    padding: 1px 0;
+  }
+  #footer .footer--traunship__input {
+    margin-left: 285px;
+  }
+  #footer .footer--traunship__Quick {
+    margin-left: -216px;
+    margin-top: -349px;
+  }
+}
+@media (max-width: 576px) {
+  #header .header {
+    height: 107px;
+  }
+  a {
+    font-size: 13px;
+  }
+  #header h1 {
+    font-size: 19px;
+  }
+  #header .header--buttonHeader {
+    width: 119px;
+    height: 30px;
+    margin: 0 0 0 20px;
+  }
+  #header .start h1 {
+    font-size: 42px;
+  }
+  #header .start h4 {
+    font-size: 12px;
+  }
+  #header .start {
+    height: 274px;
+    margin-top: 63px;
+  }
+  #header {
+    min-height: 495px;
+  }
+  #features .fac {
+    font-size: 45px;
+    margin-top: 10px;
+  }
+  #features .lop {
+    font-size: 13px;
+    margin-left: -5px;
+    width: 522px;
+  }
+  #features .lop {
+    font-size: 13px;
+    margin-left: -5px;
+    width: 522px;
+    margin-top: -10px;
+  }
+  #features .miko h3 {
+    font-size: 17px;
+  }
+  #features .miko p {
+    font-size: 10px;
+    width: 192px;
+  }
+  #spaceInvestment .imag {
+    width: 362px;
+  }
+  #spaceInvestment .time {
+    font-size: 23px;
+    width: 182px;
+    margin-left: 312px;
+    margin-top: -259px;
+  }
+  #spaceInvestment .nullam {
+    font-size: 12px;
+    width: 230px;
+    margin-left: 314px;
+    margin-top: -195px;
+  }
+  #spaceInvestment .iph {
+    width: 41px;
+    margin-top: -131px;
+    margin-left: 322px;
+  }
+  #spaceInvestment .milon {
+    margin-left: 376px;
+    font-size: 14px;
+    margin-top: -129px;
+  }
+  #spaceInvestment .help {
+    height: 276px;
+    width: 505px;
+    margin-left: 42px;
+    margin-top: -322px;
+  }
+  #factsSpace .factsSpace--h1 {
+    font-size: 37px;
+  }
+  #factsSpace .factsSpace--h5 {
+    width: 479px;
+    font-size: 12px;
+  }
+  #factsSpace .factsSpace--img__text--tittle h1 {
+    font-size: 17px;
+  }
+  #factsSpace .factsSpace--img__text {
+    padding: 1px 0 1px 0;
+  }
+  #factsSpace .factsSpace--img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+  #rocketScience .rocketScience--tittle {
+    padding: 90px 0;
+  }
+  #rocketScience .rocketScience--block img {
+    width: 180px;
+  }
+  #rocketScience .rocketScience--block h1 {
+    padding: 20px 0;
+    font-size: 13px;
+    line-height: 22px;
+    width: 148px;
+  }
+  #rocketScience .rocketScience--block h5 {
+    padding: 0 0 19px 0;
+    width: 167px;
+    font-size: 10px;
+    line-height: 18px;
+  }
+  #rocketScience .rocketScience--block {
+    width: 300px;
+    height: 330px;
+  }
+  #rocketScience .rocketScience--block2 img {
+    width: 180px;
+  }
+  #rocketScience .rocketScience--block2 h1 {
+    padding: 20px 0;
+    font-size: 13px;
+    line-height: 22px;
+    width: 148px;
+  }
+  #rocketScience .rocketScience--block2 h5 {
+    padding: 0 0 19px 0;
+    width: 167px;
+    font-size: 10px;
+    line-height: 18px;
+  }
+  #rocketScience .rocketScience--block2 {
+    width: 300px;
+    height: 330px;
+  }
+  #reviews .reviews--text h3 {
+    width: 254px;
+    font-size: 14px;
+  }
+  #reviews .reviews--text h2 {
+    font-size: 20px;
+    padding: 15px 0;
+    color: #333333;
+  }
+  #reviews .reviews--text h4 {
+    font-size: 14px;
+  }
+  #reviews .reviews--text {
+    margin: 0 7px;
+  }
+  #footer .footer--traunship logo {
+    font-size: 14px;
+  }
+  #footer .footer--traunship h4 {
+    padding: 1px 0;
+    font-size: 10px;
+    width: 153px;
+  }
+  #footer .footer--traunship h3 {
+    font-size: 10px;
+    padding: 8px 0;
+  }
+  #footer .footer--traunship h2 {
+    font-size: 10px;
+    padding: 5px 0;
+  }
+  #footer .footer--traunship {
+    padding: 77px 7px;
+    color: #FFFFFF;
+  }
+  #footer .footer--traunship__Quick {
+    margin-left: -216px;
+    margin-top: -221px;
+  }
+  #footer .footer--traunship__Quick h2 {
+    font-size: 16px;
+    line-height: 5px;
+    padding: 20px 0;
+  }
+  #footer .footer--traunship__Quick a {
+    padding: 3px 0;
+  }
+  #footer .footer--traunship__text {
+    margin: 0 140px;
+    margin-top: -131px;
+  }
+  #footer .footer--traunship__input h2 {
+    font-size: 14px;
+    line-height: 25px;
+    padding: 18px 19px;
+  }
+  #footer .footer--traunship__input input {
+    width: 232px;
+    height: 23px;
+    margin: 6px 20px;
+    font-size: 13px;
+  }
+  #footer .footer--traunship__input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 204px;
+    width: 298px;
+    height: 147px;
+  }
+}
+@media (max-width: 450px) {
+  a {
+    display: none;
+  }
+  .navbar {
+    display: block;
+  }
+  .menu {
+    display: block;
+  }
+  .menu {
+    margin-top: 73px;
+  }
+  #menu-toggle:checked ~ .menu li {
+    background: rgba(0, 0, 0, 0.7098039216);
+    border: 1px solid #333333;
+  }
+  #header .header {
+    height: 107px;
+    width: 250px;
+  }
+  #header .header--buttonHeader {
+    margin: 0 111px 0 88px;
+    padding: 1px 40px;
+  }
+  #header .start h1 {
+    font-size: 32px;
+  }
+  #header {
+    min-height: 484px;
+    min-width: 64vh;
+  }
+  #header .start--around {
+    width: 70px;
+    height: 70px;
+  }
+  #header .start {
+    height: 278px;
+    margin-top: 33px;
+  }
+  #features .fac {
+    font-size: 33px;
+    margin-top: 10px;
+  }
+  #features .lop {
+    font-size: 11px;
+    width: 412px;
+    line-height: 18px;
+  }
+  #features .css {
+    flex-wrap: wrap;
+  }
+  #features .miko p {
+    font-size: 9px;
+    width: 125px;
+  }
+  #spaceInvestment .imag {
+    width: 278px;
+  }
+  #spaceInvestment .help {
+    height: 212px;
+    width: 385px;
+    margin-top: -257px;
+  }
+  #spaceInvestment .time {
+    font-size: 17px;
+    width: 139px;
+    margin-left: 226px;
+    margin-top: -206px;
+  }
+  #spaceInvestment .nullam {
+    font-size: 10px;
+    width: 185px;
+    margin-left: 227px;
+    margin-top: -146px;
+  }
+  #spaceInvestment .iph {
+    width: 41px;
+    margin-top: -101px;
+    margin-left: 234px;
+  }
+  #spaceInvestment .milon {
+    margin-left: 288px;
+    font-size: 11px;
+    margin-top: -97px;
+  }
+  #factsSpace .factsSpace--h1 {
+    font-size: 34px;
+    margin: 20px 0;
+  }
+  #factsSpace .factsSpace--h5 {
+    width: 358px;
+    font-size: 12px;
+  }
+  #rocketScience .rocketScience {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #rocketScience .rocketScience--tittle {
+    padding: 17px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #rocketScience .rocketScience--tittle h5 {
+    padding: 8px 0;
+    text-align: center;
+    font-size: 9px;
+  }
+  #rocketScience .rocketScience--block {
+    margin: 27px 15px 12px 15px;
+  }
+  #rocketScience .rocketScience--block {
+    width: 242px;
+    height: 334px;
+  }
+  #rocketScience .rocketScience--block img {
+    width: 242px;
+  }
+  #rocketScience .rocketScience--block h5 {
+    padding: 0 0 3px 0;
+    width: 167px;
+    font-size: 10px;
+    line-height: 18px;
+  }
+  #rocketScience .rocketScience--block2 {
+    margin: 27px 15px 12px 15px;
+  }
+  #rocketScience .rocketScience--block2 {
+    width: 242px;
+    height: 334px;
+  }
+  #rocketScience .rocketScience--block2 img {
+    width: 242px;
+  }
+  #rocketScience .rocketScience--block2 h5 {
+    padding: 0 0 3px 0;
+    width: 167px;
+    font-size: 10px;
+    line-height: 18px;
+  }
+  #reviews .reviews--text h3 {
+    width: 206px;
+    line-height: 19px;
+    font-size: 10px;
+  }
+  #reviews .reviews--text {
+    margin: 0 1px;
+  }
+  #reviews .reviews--text h2 {
+    font-size: 14px;
+    padding: 1px 0;
+  }
+  #reviews .reviews--text h4 {
+    font-size: 12px;
+    line-height: 11px;
+  }
+  #reviews .reviews--text img {
+    display: block;
+    width: 53px;
+  }
+  #reviews .reviews--text img {
+    display: block;
+    width: 53px;
+    margin-left: 79px;
+  }
+  #footer .footer--traunship__Quick h2 {
+    display: none;
+  }
+  #footer .footer--traunship {
+    padding: 59px 7px 152px 7px;
+  }
+  #footer .footer--traunship__input {
+    margin-left: 123px;
+    width: 259px;
+  }
+  #footer {
+    background: #2D2424;
+    height: 350px;
+  }
+  #footer .footer--traunship__footer {
+    margin: -15px -15px;
+  }
+  #reviews .reviews--text {
+    width: 207px;
+  }
+}
+@media (max-width: 400px) {
+  #header .header--buttonHeader {
+    margin: 0 80px 0 38px;
+  }
+  #features .fac {
+    font-size: 31px;
+  }
+  #features .miko p {
+    font-size: 7px;
+    width: 111px;
+  }
+  #spaceInvestment .nullam {
+    width: 136px;
+  }
+  #spaceInvestment .iph {
+    margin-top: -74px;
+    margin-left: 222px;
+  }
+  #spaceInvestment .milon {
+    margin-left: 275px;
+    margin-top: -71px;
+  }
+  #spaceInvestment .help {
+    margin-left: 40px;
+    width: 340px;
+  }
+  #factsSpace .factsSpace--h1 {
+    font-size: 30px;
+    margin: 10px 0;
+  }
+  #reviews .reviews--text img {
+    display: block;
+    width: 45px;
+    margin-left: 70px;
+  }
+  #reviews .reviews--text h3 {
+    width: 182px;
+  }
+  #footer .footer--traunship__input {
+    margin-left: 115px;
+    width: 250px;
+  }
+  #footer .footer--traunship__foot h5 {
+    display: none;
+  }
+  #footer .footer--traunship__footer {
+    margin: 6px 59px;
+    padding: 0 90px;
+  }
+  #reviews .reviews--text {
+    width: 190px;
+  }
+  #features .lop {
+    width: 382px;
+  }
+}
+@media (max-width: 376px) {
+  #header .start h1 {
+    font-size: 27px;
+  }
+  #header .start {
+    margin-top: 6px;
+  }
+  #header .start h4 {
+    font-size: 11px;
+  }
+  #header .start--buttons__button {
+    width: 113px;
+    height: 41px;
+  }
+  #header .start--buttons__orangeButton {
+    width: 113px;
+    height: 41px;
+  }
+  #header {
+    min-height: 433px;
+    min-width: 67vh;
+  }
+  #features .fac {
+    font-size: 30px;
+  }
+  #features .lop {
+    width: 343px;
+  }
+  #features .miko p {
+    font-size: 7px;
+    width: 82px;
+    line-height: 12px;
+  }
+  #spaceInvestment .imag {
+    width: 239px;
+  }
+  #spaceInvestment .help {
+    margin-left: 21px;
+    width: 336px;
+    height: 180px;
+    margin-top: -225px;
+  }
+  #spaceInvestment .time {
+    font-size: 16px;
+    width: 137px;
+    margin-left: 187px;
+    line-height: 20px;
+    margin-top: -168px;
+  }
+  #spaceInvestment .nullam {
+    width: 136px;
+    margin-left: 192px;
+    margin-top: -129px;
+  }
+  #spaceInvestment .iph {
+    margin-top: -59px;
+    margin-left: 187px;
+  }
+  #spaceInvestment .milon {
+    margin-left: 238px;
+    margin-top: -54px;
+  }
+  #reviews .reviews--text h3 {
+    width: 168px;
+  }
+  #reviews .reviews--text {
+    width: 177px;
+  }
+  #footer .footer--traunship__input {
+    width: 238px;
+  }
+  #footer .footer--traunship__input h2 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 320px) {
+  #header .header--buttonHeader {
+    margin: 0 52px 0 20px;
+  }
+  #header {
+    min-height: 424px;
+    min-width: 60vh;
+  }
+  #header .start h1 {
+    font-size: 25px;
+  }
+  #header .start h4 {
+    font-size: 10px;
+  }
+  #header .start {
+    height: 242px;
+  }
+  #features .fac {
+    font-size: 24px;
+  }
+  #features .lop {
+    width: 292px;
+  }
+  #features .miko h3 {
+    font-size: 14px;
+  }
+  #spaceInvestment .imag {
+    width: 208px;
+    margin-top: 18px;
+  }
+  #spaceInvestment .help {
+    margin-left: 21px;
+    width: 283px;
+    height: 159px;
+    margin-top: -204px;
+  }
+  #spaceInvestment .time {
+    font-size: 13px;
+    width: 104px;
+    margin-left: 154px;
+    line-height: 18px;
+    margin-top: -154px;
+  }
+  #spaceInvestment .nullam {
+    width: 147px;
+    margin-left: 156px;
+    margin-top: -118px;
+  }
+  #spaceInvestment .iph {
+    margin-left: 159px;
+  }
+  #spaceInvestment .milon {
+    margin-left: 207px;
+  }
+  #factsSpace .factsSpace--h1 {
+    font-size: 25px;
+    margin: 8px 0;
+  }
+  #factsSpace .factsSpace--h5 {
+    width: 299px;
+    font-size: 9px;
+  }
+  #reviews .reviews--text h3 {
+    width: 146px;
+    line-height: 15px;
+    font-size: 8px;
+  }
+  #reviews .reviews--text img {
+    margin-left: 53px;
+  }
+  #reviews .reviews--text {
+    width: 146px;
+  }
+  #footer .footer--traunship__input {
+    width: 167px;
+  }
+  #footer .footer--traunship__input h2 {
+    font-size: 9px;
+  }
+  #footer .footer--traunship__input input {
+    width: 153px;
+    height: 23px;
+    margin: 3px 3px;
+    font-size: 13px;
+  }
+  #footer .footer--traunship__line {
+    margin-top: 42px;
+  }
+  #footer {
+    height: 290px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
